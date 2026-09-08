@@ -1,0 +1,1 @@
+# bashscripit_bacic_snario
